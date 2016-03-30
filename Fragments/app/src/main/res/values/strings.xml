@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText">Create Meme</string>
+    <string name="toptext">top</string>
+    <string name="bottomtext">bottom</string>
+</resources>
