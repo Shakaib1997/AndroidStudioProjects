@@ -16,8 +16,8 @@ public class ReceiveMessageActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_receive_message);
-        ButterKnife.bind(this);
         Intent intent = getIntent();
+        ButterKnife.bind(this);
         String messageText = intent.getStringExtra(EXTRA_MESSAGE);
         messageView.setText(messageText);
     }
