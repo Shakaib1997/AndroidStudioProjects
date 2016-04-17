@@ -13,5 +13,6 @@
         android:id="@+id/findHitlerBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="findHitler()"/>
+        android:onClick="findHitler()"
+        android:text="@string/find_hitler"/>
 </RelativeLayout>
