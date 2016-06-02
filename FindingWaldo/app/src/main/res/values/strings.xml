@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finding Waldo</string>
+    <string name="retry">Retry</string>
+    <string name="find_hitler">Find Waldo</string>
+    <string name="title_activity_finding_hitler_web_page">findingWaldoWebPage</string>
+    <string name="title_activity_finding_hitler_web">FindingWaldoWebActivity</string>
+    <string name="retry_connection">There was an error in loading the game. Please ensure you have a connection to the internet and try again</string>
+</resources>

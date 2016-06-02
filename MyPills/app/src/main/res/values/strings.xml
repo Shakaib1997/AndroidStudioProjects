@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPills</string>
+    <string name="bluetooth_message">Bluetooth Values: </string>
+</resources>
